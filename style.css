@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    padding: 12px;
+}
+
+.correct {
+    background-color: rgb(155, 219, 155);
+}
+
+.incorrect {
+    background-color: rgb(219, 155, 155);
+}
